@@ -1,6 +1,5 @@
 # doom-fire-effect-js
-A simple prject that simulate The Doom Fire Effect (just Javascript)
+Doom fire effect simulated with Javascript.
 
-https://rawgit.com/thebesonic/doom-fire-effect-js/master/index.html
+![](https://media.giphy.com/media/TP6HGBOVpK0X8zDxsI/giphy.gif)
 
-https://cdn.rawgit.com/thebesonic/doom-fire-effect-js/master/index.html
