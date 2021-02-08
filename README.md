@@ -1,5 +1,7 @@
-# doom-fire-effect-js
-Doom fire effect simulated with Javascript.
+# Fire simulation made with Javascript
+
+This project uses:  Canvas and pixel manipulation.
+No installation required .
 
 ![](https://media.giphy.com/media/TP6HGBOVpK0X8zDxsI/giphy.gif)
 
